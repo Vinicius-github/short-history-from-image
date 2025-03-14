@@ -1,0 +1,5 @@
+transformers
+langchain
+streamlit
+requests
+langchain_ollama
